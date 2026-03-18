@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "generated": "The symptoms of diabetes include:\n1. Blurred or reduced vision, especially in the early stages\n2. Dry mouth and swollen feet/hands (diabetics have low blood sugar levels)\n3. Thirst and urination frequently\n4. High blood pressure (hypertension), which can lead to heart disease and strokes\n5. Weight loss, which causes fatigue and weakness\n6. Insulin resistance, which leads to high blood glucose levels\n7. Frequent urination, which causes constipation\n8. Low energy levels, affecting both physical and mental health\n9. Reduced appetite\n10. Increased risk of developing complications such as neuropathy and kidney failure.\n\nThese symptoms may not appear immediately after diagnosis because they are caused by impaired insulin action. Therefore, it is recommended to",
+    "rouge1": 0.20437956204379562,
+    "rouge2": 0.07407407407407408,
+    "rougeL": 0.14598540145985403
+  },
+  {
+    "question": "What causes high blood pressure?",
+    "generated": "What causes high blood pressure?\n\nHigh blood pressure is caused by the buildup of fluid (also known as extracellular fluid) in the veins and arteries of the body. This buildup of fluid is due to the contraction of the smooth muscle cells that line these vessels. When the vessel walls become too thin, the vessels can narrow. When pressure builds up inside the vessels, it can cause them to bulge from the wall of the vessel. The resultant pressure increases against normal resistance and can cause damage to the blood vessels. The most common causes of high blood pressure include:\n\n1. Obesity\n2. Diabetes\n3. Hypertension\n4. Smoking\n5. Certain medications\n6. Low-sodium diet\n7. High-calorie diet\n8. Lack of physical activity\n9. Alcohol consumption\n10. Inadequ",
+    "rouge1": 0.23376623376623376,
+    "rouge2": 0.10526315789473684,
+    "rougeL": 0.15584415584415587
+  },
+  {
+    "question": "What are symptoms of pneumonia?",
+    "generated": "Symptoms of pneumonia include:\n1. Coughing up phlegm and mucus\n2. Fever\n3. Chest pain or pressure that radiates to the back\n4. Shortness of breath\n5. Fatigue and weakness\n6. Nausea and vomiting\n7. Purple or brown sputum\n8. Difficulty sleeping or staying asleep\n9. Abdominal pain or discomfort\n10. Runny nose, eyes, or mouth.\n\nTo identify pneumonia, the patient's temperature is checked and the patient is instructed to cough, breath deeply into their mouth until they feel uncomfortable, and then spit out the phlegm/mucus. Additionally, the patient may be advised to take antibiotics. \n\nPneumonia can be caused by bacteria such as Strept",
+    "rouge1": 0.24390243902439024,
+    "rouge2": 0.08264462809917356,
+    "rougeL": 0.1951219512195122
+  },
+  {
+    "question": "How is anemia treated?",
+    "generated": "Anemia is effectively treated by administering intravenous iron or other appropriate therapy in the form of erythropoietin (EPO) in patients with chronic kidney disease (CKD). The goal of such treatment is to increase hemoglobin concentration and/or improve patient outcome, primarily through decreased risk of blood loss from bleeding events. Intravenous iron is typically given as a single dose that should be followed by oral administration of EPO for up to 4 months. Patients who do not respond adequately to these treatments may require bone marrow transplantation or other more intensive interventions. The specific mode of action of iron absorption is not well understood but it is suggested that it depends on various factors, including intrinsic factor, which helps in the absorption of iron in the small intestine.",
+    "rouge1": 0.20512820512820512,
+    "rouge2": 0.03896103896103896,
+    "rougeL": 0.10256410256410256
+  },
+  {
+    "question": "What are the symptoms of PCOD?",
+    "generated": "The symptoms of PCOD are:\n1. Polycystic ovaries (PCO) \u2013 Multiple, abnormal ovarian cysts that cause infertility and irregular menstrual periods\n2. Hirsutism \u2013 Excessive facial hair growth, predisposing to breast and facial acne\n3. Infertility \u2013 Lack of ovulation and/or increased levels of prostaglandin E2 in the ovaries\n4. Menstrual disorders \u2013 Significantly altered menstrual periods, including irregular or absent periods, spotting during menstruation, heavy and long-lasting periods, and painful cramps\n5. Anovulatory infertility \u2013 Failed attempt at fertilization in women with normal hormonal production\n6. Clinical manifestations \u2013 Acute onset of puberty in girls between ages 8-12 years",
+    "rouge1": 0.21238938053097345,
+    "rouge2": 0.03603603603603603,
+    "rougeL": 0.12389380530973451
+  }
+]

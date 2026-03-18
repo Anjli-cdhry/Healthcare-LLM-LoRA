@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+medical_llm_tinyllama/
+medical_llm_mistral/
+*.zip
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store

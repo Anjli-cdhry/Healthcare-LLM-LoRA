@@ -1,0 +1,13 @@
+torch
+transformers==4.40.0
+peft==0.10.0
+trl==0.8.6
+accelerate==0.29.0
+datasets
+bitsandbytes
+streamlit
+rouge-score
+langchain
+langchain-community
+langchain-core
+sentencepiece
