@@ -1,6 +1,6 @@
 # 🏥 Healthcare Instruction-Tuned LLM using LoRA
 
-Fine-tuned **TinyLlama-1.1B** and **Mistral-7B** on 5000+ medical QA samples using **LoRA (Low-Rank Adaptation)** and **4-bit quantization**. Built end-to-end pipeline with Streamlit deployment and Medical Agent with conversation memory.
+Fine-tuned **TinyLlama-1.1B**  on 5000+ medical QA samples using **LoRA (Low-Rank Adaptation)** and **4-bit quantization**. Built end-to-end pipeline with Streamlit deployment and Medical Agent with conversation memory.
 
 ## 🚀 Key Features
 - Fine-tuned LLMs on 3 medical datasets (5000+ samples)
@@ -11,7 +11,7 @@ Fine-tuned **TinyLlama-1.1B** and **Mistral-7B** on 5000+ medical QA samples usi
 - ROUGE evaluation metrics
 
 ## 🛠️ Tech Stack
-- **Models:** TinyLlama-1.1B, Mistral-7B-Instruct
+- **Models:** TinyLlama-1.1B, 
 - **Fine-tuning:** LoRA, QLoRA, PEFT
 - **Framework:** PyTorch, HuggingFace Transformers
 - **Deployment:** Streamlit
