@@ -49,7 +49,7 @@ Healthcare-LLM-LoRA/
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/healthcare-llm-lora
+git clone https://github.com/Anjli-cdhry/healthcare-llm-lora
 cd healthcare-llm-lora
 pip install -r requirements.txt
 cd app
@@ -58,3 +58,6 @@ streamlit run medical_chatbot.py
 
 ## ⚠️ Disclaimer
 For educational purposes only. Always consult a qualified medical professional.
+
+## Demo
+[Watch Live Demo](https://youtu.be/JBtWlHHFcow)
