@@ -60,4 +60,4 @@ streamlit run medical_chatbot.py
 For educational purposes only. Always consult a qualified medical professional.
 
 ## Demo
-[Watch Live Demo](https://youtu.be/JBtWlHHFcow)
+[Watch Live Demo](https://youtu.be/BFecjZ8rCyw)
